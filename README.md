@@ -1,0 +1,2 @@
+- 搶課小幫手，有空位馬上寄送email通知
+- Class Slot Assistant, will send an email notification immediately when a slot becomes available
